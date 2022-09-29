@@ -1,0 +1,8 @@
+{
+    "imagePath" : "logo.svg",
+    "outputPath": "../resized-images2",
+    "settings": {
+        "ios": [20, 29, 40, 58, 60, 80, 1024, 2048],
+        "android": [20, 29, 40, 58, 60, 80, 1024, 2048]
+    }
+}
